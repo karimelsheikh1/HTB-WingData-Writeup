@@ -79,7 +79,7 @@ echo "HASH:WingFTP" > wacky.txt
 hashcat -m 1410 wacky.txt /usr/share/wordlists/rockyou.txt
 ```
 
-**Cracked:** `!#7Blushing^*Bride5`
+**Cracked:** `*********^*Bride5`
 
 ---
 

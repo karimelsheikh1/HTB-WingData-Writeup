@@ -87,7 +87,7 @@ hashcat -m 1410 wacky.txt /usr/share/wordlists/rockyou.txt
 
 ```bash
 ssh wacky@10.129.244.106
-# password: !#7Blushing^*Bride5
+# password: !#*********Bride5
 cat ~/user.txt  # User flag ✅
 ```
 
